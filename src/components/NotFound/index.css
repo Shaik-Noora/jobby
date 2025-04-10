@@ -1,0 +1,18 @@
+.txt {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 20px;
+}
+
+.txt2 {
+  color: #7e858e;
+  font-family: 'roboto';
+  font-size: 20px;
+}
+.notFound-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+}
